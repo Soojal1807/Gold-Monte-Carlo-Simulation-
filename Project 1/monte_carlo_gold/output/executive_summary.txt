@@ -1,0 +1,32 @@
+# Executive Summary: Monte Carlo Simulation of Gold Prices in INR
+
+## 1. Historical Analysis (2015 - Present)
+- **Annualized Volatility:** 16.21%
+- **Mean Daily Return:** 0.00058
+- **Maximum Drawdown:** -21.20%
+- **Sharpe Ratio:** 0.90
+- **Latest Price (as of analysis):** 12491.22 INR/Gram
+
+## 2. Monte Carlo Simulation Results (1-Year Forecast)
+Based on 10000 simulations over 252 trading days:
+
+### Price Predictions:
+- **Mean Predicted Price:** 14437.74 INR/Gram
+- **Median Predicted Price:** 14223.09 INR/Gram
+- **Confidence Interval (90%):** The price is expected to be between 10913.22 and 18653.44 INR/Gram.
+
+### Risk Assessment:
+- **Value at Risk (VaR 95%):** There is a 5% chance of losing at least 12.63% of the investment.
+- **Conditional VaR (CVaR 95%):** In the worst 5% of scenarios, the average loss is 18.29%.
+- **Probability of Loss:** There is a 20.66% chance the price will be lower than the current price in one year.
+
+### Potential Upside:
+- **Probability of >10% Gain:** 58.86%
+- **Probability of >20% Gain:** 37.22%
+
+## 3. Investment Recommendations & Insights
+- **Expected Return:** The simulation forecasts an expected return of 15.58% over the next year.
+- **Volatility:** The forecasted price distribution shows a standard deviation of 2365.79, indicating the potential range of outcomes.
+- **Insight:** Based on the historical trend and simulation, [Your interpretation here, e.g., "gold shows a positive expected return, but investors should be aware of the significant downside risk as indicated by the VaR and the wide confidence interval."]
+
+This analysis is based on historical data and models with inherent assumptions. It should not be considered as financial advice.
